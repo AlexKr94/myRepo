@@ -1,6 +1,6 @@
 <?php
 
-// FRONT COTROLLER
+// FRONT COTROLLER - Что это?
 
 // 1. Общие настройки
 
